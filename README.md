@@ -1,14 +1,16 @@
-BIO:
- 🙋‍♀️ Looking to collaborate on projects!
+## BIO:
+🙋‍♀️ Looking to collaborate on projects!
  
- 📚Always learning , feel free to share an interesting article or podcast!
+📚Always learning , feel free to share an interesting article or podcast!
  
- Reach out to me:
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+## Reach out to me:
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
  
- LANGUAGES & TOOLS:
+ ## LANGUAGES & TOOLS:
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

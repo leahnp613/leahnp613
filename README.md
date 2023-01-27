@@ -31,3 +31,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+
+## 📈 My Github Stats
+<div style="flex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahnp613&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=leahnp613&show_icons=true&theme=gotham" alt="danyeric123" />
+</div>

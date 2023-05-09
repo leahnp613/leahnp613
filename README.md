@@ -1,5 +1,7 @@
 ## BIO:
 🙋‍♀️ Looking to collaborate on projects!
+
+Currently expanding my knowledge in Hack Reactor's bootcamp!
  
 📚Always learning , feel free to share an interesting article or podcast!
  
